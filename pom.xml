@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.aforo255</groupId>
 	<artifactId>ms-account</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>ms-account</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
